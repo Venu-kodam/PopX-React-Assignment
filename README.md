@@ -60,4 +60,4 @@ A fully functional React application that allows users to sign up, sign in, and 
 
 #### Live Demo
 
-Check out the live demo here: [demo]()
+Check out the live demo here: [demo](https://popx-react-assignment.netlify.app)
